@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
 **Languages**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?&logo=TypeScript&labelColor=000)
