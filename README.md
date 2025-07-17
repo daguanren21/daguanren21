@@ -1,15 +1,17 @@
-<a href="https://github.com/pulls?q=author%3Adaguanren21">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.liuli.lol/api?username=daguanren21&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true">
-    <img alt="Shows Bob's GitHub Stats." align="right" width="480px" src="https://github-stats.liuli.lol/api?username=daguanren21&theme=vue&show_icons=true&include_all_commits=true&count_private=true">
-  </picture>
-</a>
+# 👋 Hi
 
-- 👋 Hi, My Name is Bob
-- 👀 I’m interested in basketBall and LoL
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align="center">
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile;Always+learning+new+things&center=true&width=380&height=45">
+</p>
+</div>
+
+# 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=daguanren21&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daguanren21&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="400"/>
+</div>
 
 **Languages**
 
