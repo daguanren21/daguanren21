@@ -1,17 +1,6 @@
-# 👋 Hi
-
-<div align="center">
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile;Always+learning+new+things&center=true&width=380&height=45">
-</p>
-</div>
-
-# 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=daguanren21&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daguanren21&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="400"/>
-</div>
+daguanren21&custom_title=My%20Github%20stats&show_icons=true&include_all_commits=true&theme=transparent#gh-dark-mode-only" height="180"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=daguanren21&layout=donut&langs_count=4&theme=transparent" height="180"/>
+</div
 
 **Languages**
 
