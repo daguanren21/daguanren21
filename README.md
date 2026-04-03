@@ -1,4 +1,18 @@
-daguanren21&custom_title=My%20Github%20stats&show_icons=true&include_all_commits=true&theme=transparent#gh-dark-mode-only" height="180"/>
+# 👋 Hi There
+
+<div align="center">
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile;Always+learning+new+things&center=true&width=380&height=45">
+</p>
+</div>
+
+## 📊 GitHub Stats
+
+- :octocat: [Recent Activity](https://github.com/search?q=is%3Apublic+involves%3Adaguanren21&type=issues&s=created&o=desc)
+- 📦 [My Repositories](https://github.com/daguanren21?tab=repositories)
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=daguanren21&custom_title=My%20Github%20stats&show_icons=true&include_all_commits=true&theme=transparent#gh-dark-mode-only" height="180"/>
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=daguanren21&layout=donut&langs_count=4&theme=transparent" height="180"/>
 </div
 
